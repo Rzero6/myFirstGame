@@ -5,11 +5,21 @@ using UnityEngine;
 public class FollowPlayer : MonoBehaviour
 {
     public Transform player;
-    public Vector3 offSet;
-    public Vector3 rotation;
-    // Update is called once per frame
+
+
     void Update()
     {
-        transform.position = player.position + offSet;
+        transform.position = player.position;
+
+        float horizontalInput = Input.GetAxis("Horizontal");
+        float verticalInput = Input.GetAxis("Vertical");
+        Vector3 movementInput = new Vector3(horizontalInput, 0, verticalInput);
+        Vector3 movementDirection = movementInput.normalized;
+
+        if (movementDirection != Vector3.zero)
+        {
+            Quaternion desiredRotation = Quaternion.LookRotation(movementDirection, Vector3.up);
+            transform.rotation = Quaternion.Slerp(transform.rotation, desiredRotation, 10f * Time.deltaTime);
+        }
     }
 }

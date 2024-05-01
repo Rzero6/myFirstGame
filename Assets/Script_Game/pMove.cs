@@ -14,6 +14,7 @@ public class pMove : MonoBehaviour
     public int scoreReq = 5;
     public int HP = 3;
     public float jumpForce;
+    public Transform cam;
 
     public TMP_Text uiGame;
     // Start is called before the first frame update
@@ -29,7 +30,7 @@ public class pMove : MonoBehaviour
         float xDir = Input.GetAxis("Horizontal");
         float yDir = Input.GetAxis("Vertical");
 
-        Vector3 moveDir = new Vector3(xDir, 0.0f, yDir);
+        Vector3 moveDir = Quaternion.Euler(0, cam.eulerAngles.y, 0) * new Vector3(xDir, 0.0f, yDir).normalized;
 
         //transform.position += moveDir * speed;
         rig.AddForce(moveDir * (speed * (score + 1)));
