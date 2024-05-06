@@ -15,29 +15,38 @@ public class pMove : MonoBehaviour
     public int HP = 3;
     public float jumpForce;
     public Transform cam;
+    public int totalPoints;
 
     public TMP_Text uiGame;
+    public float time = 0f;
+
+    public GameManager gameManager;
+
     // Start is called before the first frame update
     void Start()
     {
         rig = GetComponent<Rigidbody>();
-        uiGame.text = "HP : " + HP + "\nPoint : " + score;
+        GameObject[] points = GameObject.FindGameObjectsWithTag("Point");
+        totalPoints = points.Length;
+        uiGame.text = "HP : " + HP + "\nPoint : " + score + "/" + totalPoints + "\nTime : " + time.ToString("F2");
     }
 
     // Update is called once per frame
     void Update()
     {
+
+        time += Time.deltaTime;
         float xDir = Input.GetAxis("Horizontal");
         float yDir = Input.GetAxis("Vertical");
 
         Vector3 moveDir = Quaternion.Euler(0, cam.eulerAngles.y, 0) * new Vector3(xDir, 0.0f, yDir).normalized;
 
         //transform.position += moveDir * speed;
-        rig.AddForce(moveDir * (speed * (score + 1)));
+        rig.AddForce(moveDir * (speed * 2));
 
         if (Input.GetButtonDown("Jump") && HP > 0)
         {
-            Vector3 jump = new Vector3(0.0f, jumpForce, 0.0f);
+            Vector3 jump = new Vector3(0.0f, transform.position.y + jumpForce, 0.0f);
             if (isGrounded)
             {
                 rig.AddForce(jump);
@@ -48,6 +57,7 @@ public class pMove : MonoBehaviour
                 rig.AddForce(jump);
             }
         }
+        updateUI();
     }
 
     private void OnCollisionEnter(Collision collision)
@@ -69,15 +79,20 @@ public class pMove : MonoBehaviour
 
     public void updateUI()
     {
+
+        if (score == totalPoints)
+        {
+            FindObjectOfType<GameManager>().CompleteLevel();
+        }
         if (HP <= 0)
         {
-            uiGame.text = "HP : " + HP + "\nPoint : " + score + "\nGame Over";
+            FindObjectOfType<GameManager>().EndGame();
+            uiGame.text = "HP : " + HP + "\nPoint : " + score + "\nTime : " + time.ToString("F2") + "\nGame Over";
             speed = 0;
         }
         else
         {
-
-            uiGame.text = "HP : " + HP + "\nPoint : " + score;
+            uiGame.text = "HP : " + HP + "\nPoint : " + score + "/" + totalPoints + "\nTime : " + time.ToString("F2");
         }
 
     }
