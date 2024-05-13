@@ -13,6 +13,7 @@ public class Points : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             other.GetComponent<pMove>().score++;
+            other.GetComponent<pMove>().HP++;
             other.GetComponent<pMove>().updateUI();
             Destroy(gameObject);
         }
