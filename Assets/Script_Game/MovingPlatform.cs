@@ -5,9 +5,12 @@ public class MovingPlatform : MonoBehaviour
     public float speed = 1.0f;
     public float distance = 3.0f;
     public Vector3 direction = Vector3.right;
+    public Vector3 offset;
 
     private Vector3 initialPosition;
     private Vector3 targetPosition;
+    private bool isOnTop = false;
+    public GameObject player;
 
     void Start()
     {
@@ -18,7 +21,10 @@ public class MovingPlatform : MonoBehaviour
     void FixedUpdate()
     {
         transform.position = Vector3.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
-
+        if (isOnTop)
+        {
+            player.transform.position = Vector3.MoveTowards(player.transform.position, targetPosition, speed * Time.deltaTime);
+        }
         if (Vector3.Distance(transform.position, targetPosition) < 0.01f)
         {
             SetTargetPosition();
@@ -31,20 +37,19 @@ public class MovingPlatform : MonoBehaviour
         direction = -direction;
     }
 
-
-    private void OnTriggerEnter(Collider other)
+    private void OnCollisionEnter(Collision other)
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            other.transform.SetParent(transform);
+            isOnTop = true;
         }
     }
 
-    private void OnTriggerExit(Collider other)
+    private void OnCollisionExit(Collision other)
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            other.transform.SetParent(null);
+            isOnTop = false;
         }
     }
 

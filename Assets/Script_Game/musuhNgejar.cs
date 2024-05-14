@@ -43,11 +43,11 @@ public class musuhNgejar : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
+            GetComponent<AudioSource>().Play();
             collision.gameObject.GetComponent<pMove>().HP--;
             collision.gameObject.GetComponent<pMove>().updateUI();
-            Vector3 direction = (transform.position - collision.transform.position).normalized;
-            Rigidbody rb = GetComponent<Rigidbody>();
-            rb.AddForce(direction * 20f, ForceMode.Impulse);
+            GetComponent<Rigidbody>().AddForce((transform.position - collision.transform.position).normalized * 20f, ForceMode.Impulse);
+            collision.transform.GetComponent<Rigidbody>().AddForce((collision.transform.position - transform.position).normalized * 20f, ForceMode.Impulse);
         }
     }
 

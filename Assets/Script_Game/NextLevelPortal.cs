@@ -30,6 +30,7 @@ public class NextLevelPortal : MonoBehaviour
         {
             if (other.GetComponent<pMove>().score == other.GetComponent<pMove>().totalPoints)
             {
+                GetComponent<AudioSource>().Play();
                 FindObjectOfType<GameManager>().CompleteLevel(other.GetComponent<pMove>().time);
             }
         }
