@@ -20,7 +20,6 @@ public class pMove : MonoBehaviour
     private Boolean isBraking = false;
     public GameManager gameManager;
     public float time = 0f;
-
     // Start is called before the first frame update
     void Start()
     {
@@ -89,11 +88,13 @@ public class pMove : MonoBehaviour
             if (isGrounded)
             {
                 rig.AddForce(jump);
+                GetComponent<AudioSource>().Play();
             }
             else if (airJumpAble)
             {
                 airJumpAble = false;
                 rig.AddForce(jump);
+                GetComponent<AudioSource>().Play();
             }
         }
     }

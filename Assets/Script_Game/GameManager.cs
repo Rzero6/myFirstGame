@@ -8,10 +8,12 @@ public class GameManager : MonoBehaviour
 {
     bool gameHasEnded = false;
     public TMP_Text uiTime;
-    public float restartDelay = 3f;
+    public float restartDelay = 1f;
     public GameObject completeLevelUI;
     public GameObject guideUI;
     public GameObject gameOverUI;
+
+    public AudioSource pointAudio;
     void Start()
     {
         StartCoroutine(ClearGuideUIAfterDelay(5f));
@@ -30,7 +32,11 @@ public class GameManager : MonoBehaviour
         PlayerPrefs.SetFloat("Time", time);
         completeLevelUI.SetActive(true);
     }
-    // Start is called before the first frame update
+
+    public void PlayPointAudio()
+    {
+        pointAudio.Play();
+    }
     public void EndGame()
     {
         gameHasEnded = true;

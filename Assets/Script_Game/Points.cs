@@ -15,6 +15,8 @@ public class Points : MonoBehaviour
             other.GetComponent<pMove>().score++;
             other.GetComponent<pMove>().HP++;
             other.GetComponent<pMove>().updateUI();
+
+            other.transform.GetChild(0).GetComponent<AudioSource>().Play();
             Destroy(gameObject);
         }
     }
