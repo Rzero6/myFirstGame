@@ -163,7 +163,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   material: {fileID: 2100000, guid: e74834ba16a1b134194339ebb525adf0, type: 2}
-  playerObject: {fileID: 0}
+  playerObject: {fileID: 15249969218686818, guid: 1012c95e6d70a55419c32749656c1a29, type: 3}
 --- !u!64 &7560723427652234871
 MeshCollider:
   m_ObjectHideFlags: 0

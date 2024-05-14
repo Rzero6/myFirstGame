@@ -149,7 +149,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
-  lookRadius: 10
+  lookRadius: 20
 --- !u!195 &7490171643589195951
 NavMeshAgent:
   m_ObjectHideFlags: 0

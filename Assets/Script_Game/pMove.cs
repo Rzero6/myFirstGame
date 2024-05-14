@@ -37,6 +37,7 @@ public class pMove : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (transform.position.y < -1) HP = 0;
         time += Time.deltaTime;
         float xDir = Input.GetAxis("Horizontal");
         float yDir = Input.GetAxis("Vertical");
