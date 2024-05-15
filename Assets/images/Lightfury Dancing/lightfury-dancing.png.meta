@@ -1,0 +1,6133 @@
+fileFormatVersion: 2
+guid: 31e18d3a740e8cd4aadd4b9a94d7ad62
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightfury-dancing_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13870
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405a0485890d8be449eb9156a57a6d8a
+      internalID: 1663175250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_1
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 13870
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b517462182a6d841bd22b2a587c5908
+      internalID: 1092077768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_2
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 13870
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482e403de4018914b816632ea2c37525
+      internalID: -103095217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_3
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 13870
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4c8c78e2f95ff498c665a8c586f77a
+      internalID: -751215346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_4
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 13870
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5ce23919baeab42ae7f610dbf36c22
+      internalID: -1001089683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_5
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 13870
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3606f37c61d140a4784ee79c74553f48
+      internalID: 1929187029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_6
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 13870
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acef793151a3f9b46bf0bbb53cfd458b
+      internalID: -1047689222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13505
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb3da0bbe3d5c8428e548226e29fa08
+      internalID: -214069830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 13505
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdae5fa20dd63c4c802fe3fa480011e
+      internalID: -1517741605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_9
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 13505
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f37ab72a4f8a3d41b27c57abfe9d7c4
+      internalID: 680970176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_10
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 13505
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40975b5b055406443979e224a7f6bf33
+      internalID: -1384525791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_11
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 13505
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c859cbeca7ead314abaf012d9694fbab
+      internalID: 1269294317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_12
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 13505
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5802ff258431894bbc7daea2b144fba
+      internalID: -1774013598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_13
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 13505
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebc73552ee99d84eb7586ab423a1a60
+      internalID: 1406656054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13140
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0018b7a2971172548ab6e83c0ea504f8
+      internalID: 2131733193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_15
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 13140
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fca20315bdb6d54d80f9eabd86e82f3
+      internalID: -47762892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_16
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 13140
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d034d7d4cad134699ac6a92d25fcc6
+      internalID: -1822670416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_17
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 13140
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966213b77bf76904890d43c7ebbba0ad
+      internalID: -1488010684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_18
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 13140
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6019b9152e3adfd46b67f578738a93a3
+      internalID: -1530969931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_19
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 13140
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85be03322219b74e96120b50e1056b2
+      internalID: -423660405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_20
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 13140
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c17478ae521b343a897f51fdffbd00
+      internalID: -1785117320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12775
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d095b72046c72c408206d2e407d0bd6
+      internalID: 1071909374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_22
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 12775
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea213890dce60d40b9f703c6875a271
+      internalID: -609850605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_23
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 12775
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f320fbfb84ac23f4cbda81c62fcc2401
+      internalID: 677569237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_24
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 12775
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3b96400b5ea0449b2eae4aab968ef4
+      internalID: -283206267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_25
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 12775
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426fc0e1d57b0934a9ada192ccd82c45
+      internalID: 479107951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_26
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 12775
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e62277071a21164b9a6f50f3d6dc4ca
+      internalID: 1078078110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_27
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 12775
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979792a2cb4abed4a9fe2f8e2370f181
+      internalID: 1637057377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12410
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1e990e61935e14aaec54d04d392be9
+      internalID: -2117239585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_29
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 12410
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b29f29e041a2674b9b1c5b451a42ce1
+      internalID: 1686517718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_30
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 12410
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bed7bbd5fa084e49b72f6d91bc75e6d
+      internalID: 375538345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_31
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 12410
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718e6fc100e7f9041bca366384f1ca94
+      internalID: 1399598158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_32
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 12410
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da2a289b76cbd24a9d9a1ddb37e917c
+      internalID: -1288483294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_33
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 12410
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f685bb5dc6b6d42bc684876e342e84
+      internalID: 1723568837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_34
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 12410
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce67f4d9a9f34c74faf111116b73df39
+      internalID: -371190085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12045
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d134508cc41744787d23bc977e5e6d
+      internalID: -1000616283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_36
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 12045
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227c6201f7ed7d24ab6cad0637d298cc
+      internalID: -87609844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_37
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 12045
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed325149cbeadd489951fccdd727f80
+      internalID: -937012061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_38
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 12045
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2e588bd541e3042b2197abbd50b9c7
+      internalID: 597062635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_39
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 12045
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f841260d71dc4a448f06ebd1f2439e5
+      internalID: 653273477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_40
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 12045
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114b4161847799d45b2708eba7ee7037
+      internalID: 432823470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_41
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 12045
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb9a0061814168478c28bf93382695c
+      internalID: -414035569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11680
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4b48013f6b9be42923f2a7495d474c
+      internalID: 293548867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_43
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 11680
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed95828135912d4f95d64b2dfbcaf8f
+      internalID: -1368052016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_44
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 11680
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e648b7667cb42499e9c8ec3321fb34
+      internalID: -1569803806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_45
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 11680
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00af197eb9d066946aa129bfd367a141
+      internalID: 6328600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_46
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 11680
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2506e0144204e41be5e1486ef3b33a
+      internalID: -1416848081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_47
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 11680
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1635318809c5a974f8cf18261f96f800
+      internalID: 891517231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_48
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 11680
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e08c02752e204182300abbdf6a804
+      internalID: 1240992541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11315
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507eb11a3dd43eb4a9d6f782aa9cf9fa
+      internalID: -1147269862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_50
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 11315
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001a35de7a0a6a240be9874458fd5f1f
+      internalID: 1520302794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_51
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 11315
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f79dbdcedcfe7b40b1321c9e4b72186
+      internalID: 987755880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_52
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 11315
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bdac7db49d72941b187868a80e15ef
+      internalID: 1622109232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_53
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 11315
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47998bfd91ad8c4284c43f28a312d68
+      internalID: -1435012939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_54
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 11315
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59135b9147ab094faf37348a28856b4
+      internalID: 891715406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_55
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 11315
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b593600e1f194045a8fd37293f34524
+      internalID: 616099832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10950
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dad0108034dcfb4a8297dfa0f206bda
+      internalID: -580719790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_57
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 10950
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e070caca036cafa40a024563118dd13e
+      internalID: 934095751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_58
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 10950
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c9fcb69fea192479d677ff1d567654
+      internalID: 1272555759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_59
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 10950
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97541ca6cae04a408a85527d5e9b5cb
+      internalID: 1742180316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_60
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 10950
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6836ff017a7dbe64da4e789801ca3108
+      internalID: 471966984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_61
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 10950
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4734f8505296544abe0a3046ca7c3f
+      internalID: -1882003681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_62
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 10950
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15625e885f00b042a267f36349b90d5
+      internalID: 737102694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10585
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5c10ff2a21fa147a85e7a5455e8e96
+      internalID: 1022384241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_64
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 10585
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cdf6724071b464d8ecde0e0ede8176
+      internalID: -982981111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_65
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 10585
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2585d7fc42a68a84e92d40dcd759ff27
+      internalID: 901087093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_66
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 10585
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fc9b06637960642bb228a06e3ec74f
+      internalID: 553012880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_67
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 10585
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e1b22fea860e54d8da430281e1349f
+      internalID: -1818448983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_68
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 10585
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86836eef5128293418fcc29b23f14160
+      internalID: -705101206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_69
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 10585
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd64f12d3f19a8049b83b0d45fb3160a
+      internalID: 281864752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10220
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b63ddd6eb1631d4ca1ac21cec0455c3
+      internalID: 2085034349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_71
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 10220
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f710ccb4cb3341419c6057983827f96
+      internalID: -234224558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_72
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 10220
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad83aff5479778c4b866eebcde744a52
+      internalID: -924823284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_73
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 10220
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c80c5e3ccae0147b99df571530b9cd
+      internalID: 1093988838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_74
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 10220
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c8f1152c3933040b53db40252cd221
+      internalID: -727599739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_75
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 10220
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c476d8fb91e97d14682c87ac6692d118
+      internalID: -1071144259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_76
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 10220
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467828d3e65cf02469967660a6f2defc
+      internalID: -1296615362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9855
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365fecb00bc3a0c47bf520fc515c0aa4
+      internalID: 126691289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_78
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 9855
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f872f46b575e8740aa5b43b9a6dd0a1
+      internalID: -817797209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_79
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 9855
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94f93eac248f8f4eb1fc1c54affb341
+      internalID: -782312996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_80
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 9855
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fc7da912aaf264096d5175dfcc9f28
+      internalID: 1099271994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_81
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 9855
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9b5deee8b5ab942b7179ae0f8df1f4
+      internalID: -1336693394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_82
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 9855
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d81c977507e4654783c6bc5c6ca7ffc
+      internalID: -1569998294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_83
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 9855
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa57c15a81ca58f47b256ab4f74024ad
+      internalID: -703885289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9490
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 757571c97a56b0d48a3a935c6604734e
+      internalID: -1906539134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_85
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 9490
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d3375c5755545459664eb422e2fcc0
+      internalID: 1358673479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_86
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 9490
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37342e3e71cab94daeb69dd4b5d70e9
+      internalID: -1274765804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_87
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 9490
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216412e6077093c4088f7f2dfeae508e
+      internalID: -253271611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_88
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 9490
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db6e3ff81364674f8fa0018cd523d81
+      internalID: -471884005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_89
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 9490
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4089bf47da4b645be06f18cbfbbf6a
+      internalID: -872764133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_90
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 9490
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49d80fcb3999774a90ed38e85e21ef8
+      internalID: -1149960536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9125
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef981c293902974b98ca2509a2f931f
+      internalID: -1616725415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_92
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 9125
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e8c8b2425c31b459cdc48007f3886e
+      internalID: -1530177242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_93
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 9125
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385c86a560af70f46be4fe851d577b95
+      internalID: -377891186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_94
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 9125
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e77e2b3f8913144b00b5467b12cef4
+      internalID: 1088397769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_95
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 9125
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310347c40b4d4c04ea608f0fae21468e
+      internalID: 504829915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_96
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 9125
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d91391da6d97845a7d5d279ed31238
+      internalID: 77734305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_97
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 9125
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f466ffa9dd40fea4faf4dcbb5132b788
+      internalID: 108306368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8760
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fea591742bd86646b307dabdb4496da
+      internalID: 2070660125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_99
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 8760
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f66125b0828dfb408c5ede4ac18d430
+      internalID: 1546522639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_100
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 8760
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8831cb402185a2408152f2aa29ee5ae
+      internalID: -283948175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_101
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 8760
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d722f9ed51f2bb4089bbafb0cf1a74a
+      internalID: -2071448659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_102
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 8760
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cabd769dea0c944ac782043bad9e6f
+      internalID: -1405455757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_103
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 8760
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6428791d9e924eb4b900aa23b8851210
+      internalID: 105157419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_104
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 8760
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39240b45e521ca45b761a83f39b39c0
+      internalID: 1182707332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8395
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5492829deb68efd419908b6a81f8432a
+      internalID: -2063671006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_106
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 8395
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dba0a0ca0e77774dbbdf8081b214749
+      internalID: 37966551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_107
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 8395
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85845e9b6b9a0e841b580cd396bd12e4
+      internalID: 1531976434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_108
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 8395
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3c71ccf3e543247941768f46255a80
+      internalID: -2049637469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_109
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 8395
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720393a8281634c48ab993cd174e1ff2
+      internalID: -1904283944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_110
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 8395
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a6b85b6f5142449921efed8803c0b8
+      internalID: 1248927496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_111
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 8395
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b52e4f1cd685848bd1afa98e3b2aed
+      internalID: -1188210461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8030
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef13021b3aa9504197a15033af873b0
+      internalID: 1620492158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_113
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 8030
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04478270511611e4aa9d03d1f6be4d40
+      internalID: -16929328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_114
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 8030
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e361beb0b0a284a94151ebd8a97673
+      internalID: 1665914006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_115
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 8030
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b3976254190764986515e658ab0a6f
+      internalID: -1572186916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_116
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 8030
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b90e139df087c448b30448c9187c2c7
+      internalID: -1195312768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_117
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 8030
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0326ade7dc8b74da022919c8089a1a
+      internalID: -1884492398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_118
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 8030
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1856261335aa0844964d584a0b99219
+      internalID: -1091754066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7665
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd04c03ad37ea634ca21cccb2c04b0ed
+      internalID: 337633712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_120
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 7665
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167cfcb3f11067046ad1a19105b4f6ac
+      internalID: -367981780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_121
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 7665
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cf6da65c7e06248bed34fbc40ffe43
+      internalID: 764553505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_122
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 7665
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614d00d738a1e2447b23365e02fc1cc5
+      internalID: -797431978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_123
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 7665
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3961b29016c81f43bd0d40e7691c7b6
+      internalID: 1201930194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_124
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 7665
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0ac9ceaedcd7a4683318fead239b8f
+      internalID: 617140701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_125
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 7665
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69549fd8c3cb3944d9f417c5691f44b7
+      internalID: 186308717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7300
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f20fdfdf8109c44b24724309229389
+      internalID: 196523857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_127
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 7300
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b27d482dbbd6840a4ac25173b9dc81
+      internalID: 1146637663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_128
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 7300
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349123dc35cda494ebdb232115fb013d
+      internalID: 323100547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_129
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 7300
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09a62a32ec1b39458a417b8b6d999bb
+      internalID: 863180746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_130
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 7300
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf95c2cbe4f1d46942e60ace81421f
+      internalID: 14561199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_131
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 7300
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10974ecfa7e71424da3e0f57c747d1d2
+      internalID: 24768786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_132
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 7300
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8df87a5cec2bd14e9a6415798f436c4
+      internalID: -1082215142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6935
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992e80af3de1f8c42a3b4bc8c30e5ac7
+      internalID: 1834312496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_134
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 6935
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70d38836c33d7941ad217ddb2484b31
+      internalID: -299799775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_135
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 6935
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8918b869b46bc44cbd849cd55c27b6c
+      internalID: 1692315756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_136
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 6935
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e9a252a2b64af44b76646223042cc7
+      internalID: 836339076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_137
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 6935
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffb3e2c0cff0ce4f8ef42d173674fe3
+      internalID: -1960995520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_138
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 6935
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d0a0ac22f07ea46af8a809e7e99a9c
+      internalID: 967160156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_139
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 6935
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5df65d928e8cd2439ea58aafb53b2dc
+      internalID: 1455233417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6570
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5d4fb43f964f44cb9bbc6b2e35dad1
+      internalID: -43764378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_141
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 6570
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9580eacabfd2d6940b15284a07e3039a
+      internalID: -1741647826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_142
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 6570
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccda2bc393abddd44b199da088d9c756
+      internalID: -1823605991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_143
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 6570
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29adfdfcf3abf8a4f8f10da6151aba43
+      internalID: 1573265047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_144
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 6570
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f2e1f356897784ba125a91af1d4725
+      internalID: -1922956089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_145
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 6570
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762de9b9300e6004ba3ff11e5cb8ff80
+      internalID: 1727352338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_146
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 6570
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15ae52dfa44b314d94ae632b5ce2e40
+      internalID: 2037763218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_147
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6205
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1a74dc93825404d9089f1e8afdc149
+      internalID: 1625374540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_148
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 6205
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5eacbf3d18cba04383577f95d25fec2
+      internalID: -1546067548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_149
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 6205
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71d9adc0eecb1b4fb1e0387ce214af9
+      internalID: 1106325956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_150
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 6205
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0009e8187666b42b371e0082a53734
+      internalID: 1131304682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_151
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 6205
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f4fb715fa9c224195d3e4c92254fbc
+      internalID: 2139159986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_152
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 6205
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fc3c80e70a5ef408fb12fe0778a73e
+      internalID: 1186409796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_153
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 6205
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bd8436854d7c34790ce5a826c73054
+      internalID: 1413012878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5840
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7ffb8b906949942a8c9dfec9416d1d
+      internalID: -852152481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_155
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 5840
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4454487b0c5295c45988e8f688fb57d0
+      internalID: -1711127563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_156
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 5840
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dee4c6f994fdd44e8d0b91655625b84
+      internalID: -2011653465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_157
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 5840
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2256dfd72a7a324cad9dd0e3e67f948
+      internalID: 1547043991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_158
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 5840
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b94784955c76844aa7fbf043f5ead3
+      internalID: 1502447792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_159
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 5840
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d30fc2e318c7241b13d1ce89f01faf
+      internalID: 1963021033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_160
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 5840
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e191b486604dbe4bbe8324c94f5d628
+      internalID: -1197018669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5475
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebc0d620a422954f90c842b7a5a2439
+      internalID: 686653489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_162
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 5475
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf521753adc343e4189b4e94fcf9839f
+      internalID: -1371958948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_163
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 5475
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cf4312e29939e4592af02489189bb7
+      internalID: 1921237835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_164
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 5475
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140f08e95810b9e4d922640c20b9b640
+      internalID: 2126255923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_165
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 5475
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f2d8c164ddf7c4491a0455ee775965
+      internalID: -1913313558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_166
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 5475
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69964173292a8274faea559812f93a5a
+      internalID: 1088831798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_167
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 5475
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c15dcdac8c8bed43b1c5dad6bed3bdc
+      internalID: 657614989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5110
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3349ea9b4e5bf204a9bc6ea31c917115
+      internalID: 473799080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_169
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 5110
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dbca40d124b8e4384a509678dd58f7
+      internalID: 400921497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_170
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 5110
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5fe044eed619f4399b2b429402aa0a
+      internalID: -477060398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_171
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 5110
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f649aaac3916e74d9fadaeadd69f03b
+      internalID: -849538200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_172
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 5110
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af9e0de52e211d47b2b65fe319980ea
+      internalID: 434288264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_173
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 5110
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f250621558e3d418eba8cefae869e5
+      internalID: -183159376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_174
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 5110
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c30789fdf6599d4eafda7b1f342d421
+      internalID: -1254317970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4745
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1db024588571014e8e87591ada51483
+      internalID: 611969282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_176
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 4745
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dae0b024c4d6d4f86e5b8c31f95951
+      internalID: -1851473017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_177
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 4745
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d0b16b4c0a56f4da0a10ad9e660e62
+      internalID: 816519060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_178
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 4745
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada5bbddd5e5f84da9bdc85d0ed93fd
+      internalID: -280979842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_179
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 4745
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81752761732c24b4cb383bc187d7b70f
+      internalID: 2110887947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_180
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 4745
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f454b7d5746fc45b4454889a1baa28
+      internalID: 392484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_181
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 4745
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b924d02d7b5126346a03765ca0d2f3c9
+      internalID: 746881436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4380
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaa1b9d3c096934a8a696c464698b78
+      internalID: 721146796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_183
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 4380
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3940fea7c9fd37b42b2bb08436847493
+      internalID: -1527592102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_184
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 4380
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a15758f4054c954cafc71d3953f7706
+      internalID: 1785964591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_185
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 4380
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27d5f5df774aa745bf4eb4e349930d7
+      internalID: 40418787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_186
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 4380
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b338825c623f3428261c784aebbba6
+      internalID: 2054176032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_187
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 4380
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14ad8e56fbe46642b7037c02ea49656
+      internalID: -1811920801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_188
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 4380
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74edd3e82b27b7a48be656543e65c9c2
+      internalID: 149514410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_189
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4015
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ed618a9bfa4e149b966eef36ecfe5f
+      internalID: 1790252123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_190
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 4015
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186471e61fa2af74f9123159af64bd3f
+      internalID: -77983411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_191
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 4015
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d6804cbe083084d929ecef761e3334
+      internalID: 937124266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_192
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 4015
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943e513fc178c9e4793daa739af8c760
+      internalID: 901840819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_193
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 4015
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa21226b697d56340966b7e372b25f29
+      internalID: -1450882486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_194
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 4015
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40743627413184f42a910910fe6613f2
+      internalID: 1900567541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_195
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 4015
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1608320eb8bc0cb43ab3296a605b146a
+      internalID: 1990637359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3650
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f421b35dc298642876db51cc764091
+      internalID: -795963126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_197
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3650
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5f039fd75a235469f1b46a802157a7
+      internalID: -1577738197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_198
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3650
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61cc0249bfe73da468a756ddc333cdb5
+      internalID: 42529991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_199
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3650
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa40a467c4409c478cc3ca23daefd4e
+      internalID: 358279410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_200
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3650
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92eaec79e1fe7a9499d17ba343eb9efb
+      internalID: 802691114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_201
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 3650
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b7e8aafd66dc043a5091bf43d34a83
+      internalID: -119125516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_202
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3650
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a4b8b8331f5a147a9c20288a06a6c0
+      internalID: 1211920414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_203
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3285
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604cae4862f51ff4b908eec69241739a
+      internalID: 956854814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_204
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 3285
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9535a9721568d054b84b73aaf34fb512
+      internalID: 825795132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_205
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 3285
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b477d1144dac7d242bdf0f520c25d1d4
+      internalID: -1433482935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_206
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 3285
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127061171bbf39d488dfa8a8490d5de5
+      internalID: -158237056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_207
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 3285
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c160d1f94a19a4fbd5b8d84a6a1775
+      internalID: -1204129447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_208
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 3285
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce890f6d764448c478e772b6e25cb965
+      internalID: 585978070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_209
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 3285
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3559185d0e197e243b83420f19e3799c
+      internalID: 340332777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_210
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2920
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b4f93a7a4ccd54f9f7609a6d3619a9
+      internalID: -830561065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_211
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2920
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641445e28038db74fa1089e5cecac816
+      internalID: -806323583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_212
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2920
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f06d6140e21324dafe11e4c9a0dca8
+      internalID: -801586315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_213
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2920
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70bfde2b1f870343b5b77d76cf9e3d6
+      internalID: -1671349314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_214
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2920
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9822115fa7d825b4d90bcfc454b1df8c
+      internalID: 2131891459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_215
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 2920
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68c4ff1973a5cd4d9f0c96ce26fc7be
+      internalID: 1846455271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_216
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 2920
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d279ff4d9a371b41807b90cea6319b2
+      internalID: 2043707357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_217
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2555
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6622ccfed0dfb49a76b1dae20b15d8
+      internalID: -1256622462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_218
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2555
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a169b48e84d8934986ab2120897a35b
+      internalID: 1700443859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_219
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2555
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68efac7b0bb3a994abbb01deec6fe748
+      internalID: -2131273246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_220
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2555
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b895089c97a43458555da4ec967cc6
+      internalID: -2049578140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_221
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2555
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcd6842ab375674da11f27b3d92a18b
+      internalID: -226813553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_222
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 2555
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a4287fe6ccf5f408a46f73e73d30f4
+      internalID: 1755278169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_223
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 2555
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4786e312f301745b7d2f6df3d01581
+      internalID: -2030270393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2190
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff8f8febdaf5b94baba1f304c0dae84
+      internalID: -719985796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_225
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2190
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca481781acded04488f594581ed168a9
+      internalID: -531014369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_226
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2190
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875f0f758a3bd0343a4fc47ad05e31d9
+      internalID: -1348146758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_227
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 2190
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f091f55da918ba448bfb135e29c2d4dc
+      internalID: -73715701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_228
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 2190
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25849d010b10ab418b417bd5a01da74
+      internalID: -27612082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_229
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 2190
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f33e2dd0143ee4ba88b9944e93f908
+      internalID: 342589354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_230
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 2190
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b8d6d362bd13041b22e75371694701
+      internalID: 1131968761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_231
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1825
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bae763580469445b6cf149f67dcb50
+      internalID: -1862957647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_232
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1825
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592548042c66a1148beea5bde1bbc608
+      internalID: 2000835293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_233
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1825
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4519bb950f5f145b7d74ee8aab42be
+      internalID: -1490444431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_234
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1825
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c8f6e1fb78b3f4e9643d843541f51c
+      internalID: -316810564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_235
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1825
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56d178a3f935a041b4739b5d6c0621c
+      internalID: -1703102739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_236
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1825
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e736f51733ebd40b01e01c00843c95
+      internalID: 1122348146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_237
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1825
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536e53a67880e314694a2fb7b14934b7
+      internalID: 1840604819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1460
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db2746494fbcf3489808e4883a1b9ed
+      internalID: -676636731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_239
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1460
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2c18478e251034884e9cb086e4c3f8
+      internalID: -911615309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_240
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1460
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3bf53de75738d418b2cdb64d691353
+      internalID: -709877358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_241
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1460
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3544202b1b9ba45898106039bc306b
+      internalID: 772719705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_242
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1460
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6112bbd9a2247e4ba4ad05d78dda5eb
+      internalID: -1461195118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_243
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1460
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e6f6131b57d354686aea08c2b5388a
+      internalID: -1294177317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_244
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1460
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce5035a1378942408244e098345d7b9
+      internalID: 1553369244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_245
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1095
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353b8d9ce3bbb614a99d0a957458d04e
+      internalID: 1594041060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_246
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1095
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc38897b3d47ea24eb9690b08ebd9359
+      internalID: 1977185585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_247
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1095
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4169f342d287f4782847516547796c
+      internalID: 937980892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_248
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1095
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea601b470aed04ba1ba5eaf619733c
+      internalID: -1244859968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_249
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 1095
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba80c52d8104e944aa03de5d7ef5db8
+      internalID: -1527680116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_250
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 1095
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85cafa7b0125094ea8a79129e127065
+      internalID: 1089621666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_251
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 1095
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcf9e0adc8e4554797ef1ce96691c36
+      internalID: 1301323999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_252
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 730
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44cd955f995b634a94651cd08e50860
+      internalID: -1135466169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_253
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 730
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789fe0a4045141846b42d4e089f08442
+      internalID: -1535858355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_254
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 730
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cda053e13521543ab654cce7c6fc32
+      internalID: 1294700972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_255
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 730
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4ed1e8cd340724b8bbec4366d61bee
+      internalID: -511027908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_256
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 730
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbe7b099b259124490491d4915f382f
+      internalID: 670805447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_257
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 730
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd189e7d87cbad24aa2dff0bf4e6f00a
+      internalID: -1362244492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_258
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 730
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c00d6cdfb0541a45bd5a1edafae912b
+      internalID: 1239235326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_259
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25568d3b9f862fc49a5661a047dba7d0
+      internalID: 169167474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_260
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 365
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec2010ddb72176419de9cc33c0ed334
+      internalID: 321008741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_261
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 365
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c14bff5b1460f49b7ee3ee6aa81244
+      internalID: -1009248737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_262
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 365
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6359b6e62cdd7e64fad23db1c8964e3c
+      internalID: -1775033973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_263
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 365
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b315a9b013f7e84e87da56932bdfce1
+      internalID: -1900258545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_264
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 365
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f637db4b98fd2194ab52679a711194a4
+      internalID: -783461841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_265
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 365
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0664ad4f40c8ac14680f34cebf3b88fa
+      internalID: 1540556049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_266
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2876f09657e3443bfd80adb815df36
+      internalID: 844032439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_267
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 0
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722b235985854c648a5a602c18d62fae
+      internalID: 2009356834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_268
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 0
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b3df6c6f32a4d4181ff6e186b6fcf9
+      internalID: -221902963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_269
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 0
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182a0f3860ebc074b83ebc4740b5bfd4
+      internalID: -1546163792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_270
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 0
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c529e3091be38fa429096723c63aeb59
+      internalID: 2049434755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_271
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 0
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d638c6cb16bb94f84d0cf71466edc7
+      internalID: -1380103336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lightfury-dancing_272
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 0
+        width: 498
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cde4b3fb23021b4099e831d3580e836
+      internalID: 1426042613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8d42b01f29aebb142b4b98bd4345e2db
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      lightfury-dancing_0: 1663175250
+      lightfury-dancing_1: 1092077768
+      lightfury-dancing_10: -1384525791
+      lightfury-dancing_100: -283948175
+      lightfury-dancing_101: -2071448659
+      lightfury-dancing_102: -1405455757
+      lightfury-dancing_103: 105157419
+      lightfury-dancing_104: 1182707332
+      lightfury-dancing_105: -2063671006
+      lightfury-dancing_106: 37966551
+      lightfury-dancing_107: 1531976434
+      lightfury-dancing_108: -2049637469
+      lightfury-dancing_109: -1904283944
+      lightfury-dancing_11: 1269294317
+      lightfury-dancing_110: 1248927496
+      lightfury-dancing_111: -1188210461
+      lightfury-dancing_112: 1620492158
+      lightfury-dancing_113: -16929328
+      lightfury-dancing_114: 1665914006
+      lightfury-dancing_115: -1572186916
+      lightfury-dancing_116: -1195312768
+      lightfury-dancing_117: -1884492398
+      lightfury-dancing_118: -1091754066
+      lightfury-dancing_119: 337633712
+      lightfury-dancing_12: -1774013598
+      lightfury-dancing_120: -367981780
+      lightfury-dancing_121: 764553505
+      lightfury-dancing_122: -797431978
+      lightfury-dancing_123: 1201930194
+      lightfury-dancing_124: 617140701
+      lightfury-dancing_125: 186308717
+      lightfury-dancing_126: 196523857
+      lightfury-dancing_127: 1146637663
+      lightfury-dancing_128: 323100547
+      lightfury-dancing_129: 863180746
+      lightfury-dancing_13: 1406656054
+      lightfury-dancing_130: 14561199
+      lightfury-dancing_131: 24768786
+      lightfury-dancing_132: -1082215142
+      lightfury-dancing_133: 1834312496
+      lightfury-dancing_134: -299799775
+      lightfury-dancing_135: 1692315756
+      lightfury-dancing_136: 836339076
+      lightfury-dancing_137: -1960995520
+      lightfury-dancing_138: 967160156
+      lightfury-dancing_139: 1455233417
+      lightfury-dancing_14: 2131733193
+      lightfury-dancing_140: -43764378
+      lightfury-dancing_141: -1741647826
+      lightfury-dancing_142: -1823605991
+      lightfury-dancing_143: 1573265047
+      lightfury-dancing_144: -1922956089
+      lightfury-dancing_145: 1727352338
+      lightfury-dancing_146: 2037763218
+      lightfury-dancing_147: 1625374540
+      lightfury-dancing_148: -1546067548
+      lightfury-dancing_149: 1106325956
+      lightfury-dancing_15: -47762892
+      lightfury-dancing_150: 1131304682
+      lightfury-dancing_151: 2139159986
+      lightfury-dancing_152: 1186409796
+      lightfury-dancing_153: 1413012878
+      lightfury-dancing_154: -852152481
+      lightfury-dancing_155: -1711127563
+      lightfury-dancing_156: -2011653465
+      lightfury-dancing_157: 1547043991
+      lightfury-dancing_158: 1502447792
+      lightfury-dancing_159: 1963021033
+      lightfury-dancing_16: -1822670416
+      lightfury-dancing_160: -1197018669
+      lightfury-dancing_161: 686653489
+      lightfury-dancing_162: -1371958948
+      lightfury-dancing_163: 1921237835
+      lightfury-dancing_164: 2126255923
+      lightfury-dancing_165: -1913313558
+      lightfury-dancing_166: 1088831798
+      lightfury-dancing_167: 657614989
+      lightfury-dancing_168: 473799080
+      lightfury-dancing_169: 400921497
+      lightfury-dancing_17: -1488010684
+      lightfury-dancing_170: -477060398
+      lightfury-dancing_171: -849538200
+      lightfury-dancing_172: 434288264
+      lightfury-dancing_173: -183159376
+      lightfury-dancing_174: -1254317970
+      lightfury-dancing_175: 611969282
+      lightfury-dancing_176: -1851473017
+      lightfury-dancing_177: 816519060
+      lightfury-dancing_178: -280979842
+      lightfury-dancing_179: 2110887947
+      lightfury-dancing_18: -1530969931
+      lightfury-dancing_180: 392484
+      lightfury-dancing_181: 746881436
+      lightfury-dancing_182: 721146796
+      lightfury-dancing_183: -1527592102
+      lightfury-dancing_184: 1785964591
+      lightfury-dancing_185: 40418787
+      lightfury-dancing_186: 2054176032
+      lightfury-dancing_187: -1811920801
+      lightfury-dancing_188: 149514410
+      lightfury-dancing_189: 1790252123
+      lightfury-dancing_19: -423660405
+      lightfury-dancing_190: -77983411
+      lightfury-dancing_191: 937124266
+      lightfury-dancing_192: 901840819
+      lightfury-dancing_193: -1450882486
+      lightfury-dancing_194: 1900567541
+      lightfury-dancing_195: 1990637359
+      lightfury-dancing_196: -795963126
+      lightfury-dancing_197: -1577738197
+      lightfury-dancing_198: 42529991
+      lightfury-dancing_199: 358279410
+      lightfury-dancing_2: -103095217
+      lightfury-dancing_20: -1785117320
+      lightfury-dancing_200: 802691114
+      lightfury-dancing_201: -119125516
+      lightfury-dancing_202: 1211920414
+      lightfury-dancing_203: 956854814
+      lightfury-dancing_204: 825795132
+      lightfury-dancing_205: -1433482935
+      lightfury-dancing_206: -158237056
+      lightfury-dancing_207: -1204129447
+      lightfury-dancing_208: 585978070
+      lightfury-dancing_209: 340332777
+      lightfury-dancing_21: 1071909374
+      lightfury-dancing_210: -830561065
+      lightfury-dancing_211: -806323583
+      lightfury-dancing_212: -801586315
+      lightfury-dancing_213: -1671349314
+      lightfury-dancing_214: 2131891459
+      lightfury-dancing_215: 1846455271
+      lightfury-dancing_216: 2043707357
+      lightfury-dancing_217: -1256622462
+      lightfury-dancing_218: 1700443859
+      lightfury-dancing_219: -2131273246
+      lightfury-dancing_22: -609850605
+      lightfury-dancing_220: -2049578140
+      lightfury-dancing_221: -226813553
+      lightfury-dancing_222: 1755278169
+      lightfury-dancing_223: -2030270393
+      lightfury-dancing_224: -719985796
+      lightfury-dancing_225: -531014369
+      lightfury-dancing_226: -1348146758
+      lightfury-dancing_227: -73715701
+      lightfury-dancing_228: -27612082
+      lightfury-dancing_229: 342589354
+      lightfury-dancing_23: 677569237
+      lightfury-dancing_230: 1131968761
+      lightfury-dancing_231: -1862957647
+      lightfury-dancing_232: 2000835293
+      lightfury-dancing_233: -1490444431
+      lightfury-dancing_234: -316810564
+      lightfury-dancing_235: -1703102739
+      lightfury-dancing_236: 1122348146
+      lightfury-dancing_237: 1840604819
+      lightfury-dancing_238: -676636731
+      lightfury-dancing_239: -911615309
+      lightfury-dancing_24: -283206267
+      lightfury-dancing_240: -709877358
+      lightfury-dancing_241: 772719705
+      lightfury-dancing_242: -1461195118
+      lightfury-dancing_243: -1294177317
+      lightfury-dancing_244: 1553369244
+      lightfury-dancing_245: 1594041060
+      lightfury-dancing_246: 1977185585
+      lightfury-dancing_247: 937980892
+      lightfury-dancing_248: -1244859968
+      lightfury-dancing_249: -1527680116
+      lightfury-dancing_25: 479107951
+      lightfury-dancing_250: 1089621666
+      lightfury-dancing_251: 1301323999
+      lightfury-dancing_252: -1135466169
+      lightfury-dancing_253: -1535858355
+      lightfury-dancing_254: 1294700972
+      lightfury-dancing_255: -511027908
+      lightfury-dancing_256: 670805447
+      lightfury-dancing_257: -1362244492
+      lightfury-dancing_258: 1239235326
+      lightfury-dancing_259: 169167474
+      lightfury-dancing_26: 1078078110
+      lightfury-dancing_260: 321008741
+      lightfury-dancing_261: -1009248737
+      lightfury-dancing_262: -1775033973
+      lightfury-dancing_263: -1900258545
+      lightfury-dancing_264: -783461841
+      lightfury-dancing_265: 1540556049
+      lightfury-dancing_266: 844032439
+      lightfury-dancing_267: 2009356834
+      lightfury-dancing_268: -221902963
+      lightfury-dancing_269: -1546163792
+      lightfury-dancing_27: 1637057377
+      lightfury-dancing_270: 2049434755
+      lightfury-dancing_271: -1380103336
+      lightfury-dancing_272: 1426042613
+      lightfury-dancing_28: -2117239585
+      lightfury-dancing_29: 1686517718
+      lightfury-dancing_3: -751215346
+      lightfury-dancing_30: 375538345
+      lightfury-dancing_31: 1399598158
+      lightfury-dancing_32: -1288483294
+      lightfury-dancing_33: 1723568837
+      lightfury-dancing_34: -371190085
+      lightfury-dancing_35: -1000616283
+      lightfury-dancing_36: -87609844
+      lightfury-dancing_37: -937012061
+      lightfury-dancing_38: 597062635
+      lightfury-dancing_39: 653273477
+      lightfury-dancing_4: -1001089683
+      lightfury-dancing_40: 432823470
+      lightfury-dancing_41: -414035569
+      lightfury-dancing_42: 293548867
+      lightfury-dancing_43: -1368052016
+      lightfury-dancing_44: -1569803806
+      lightfury-dancing_45: 6328600
+      lightfury-dancing_46: -1416848081
+      lightfury-dancing_47: 891517231
+      lightfury-dancing_48: 1240992541
+      lightfury-dancing_49: -1147269862
+      lightfury-dancing_5: 1929187029
+      lightfury-dancing_50: 1520302794
+      lightfury-dancing_51: 987755880
+      lightfury-dancing_52: 1622109232
+      lightfury-dancing_53: -1435012939
+      lightfury-dancing_54: 891715406
+      lightfury-dancing_55: 616099832
+      lightfury-dancing_56: -580719790
+      lightfury-dancing_57: 934095751
+      lightfury-dancing_58: 1272555759
+      lightfury-dancing_59: 1742180316
+      lightfury-dancing_6: -1047689222
+      lightfury-dancing_60: 471966984
+      lightfury-dancing_61: -1882003681
+      lightfury-dancing_62: 737102694
+      lightfury-dancing_63: 1022384241
+      lightfury-dancing_64: -982981111
+      lightfury-dancing_65: 901087093
+      lightfury-dancing_66: 553012880
+      lightfury-dancing_67: -1818448983
+      lightfury-dancing_68: -705101206
+      lightfury-dancing_69: 281864752
+      lightfury-dancing_7: -214069830
+      lightfury-dancing_70: 2085034349
+      lightfury-dancing_71: -234224558
+      lightfury-dancing_72: -924823284
+      lightfury-dancing_73: 1093988838
+      lightfury-dancing_74: -727599739
+      lightfury-dancing_75: -1071144259
+      lightfury-dancing_76: -1296615362
+      lightfury-dancing_77: 126691289
+      lightfury-dancing_78: -817797209
+      lightfury-dancing_79: -782312996
+      lightfury-dancing_8: -1517741605
+      lightfury-dancing_80: 1099271994
+      lightfury-dancing_81: -1336693394
+      lightfury-dancing_82: -1569998294
+      lightfury-dancing_83: -703885289
+      lightfury-dancing_84: -1906539134
+      lightfury-dancing_85: 1358673479
+      lightfury-dancing_86: -1274765804
+      lightfury-dancing_87: -253271611
+      lightfury-dancing_88: -471884005
+      lightfury-dancing_89: -872764133
+      lightfury-dancing_9: 680970176
+      lightfury-dancing_90: -1149960536
+      lightfury-dancing_91: -1616725415
+      lightfury-dancing_92: -1530177242
+      lightfury-dancing_93: -377891186
+      lightfury-dancing_94: 1088397769
+      lightfury-dancing_95: 504829915
+      lightfury-dancing_96: 77734305
+      lightfury-dancing_97: 108306368
+      lightfury-dancing_98: 2070660125
+      lightfury-dancing_99: 1546522639
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -23,7 +23,6 @@ public class pMove : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        // Cursor.visible = false;
         if (PlayerPrefs.HasKey("Time"))
         {
             time = PlayerPrefs.GetFloat("Time");

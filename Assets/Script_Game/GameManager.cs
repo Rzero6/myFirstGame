@@ -12,8 +12,6 @@ public class GameManager : MonoBehaviour
     public GameObject completeLevelUI;
     public GameObject guideUI;
     public GameObject gameOverUI;
-
-    public AudioSource pointAudio;
     void Start()
     {
         StartCoroutine(ClearGuideUIAfterDelay(5f));
@@ -31,11 +29,6 @@ public class GameManager : MonoBehaviour
         uiTime.text = formattedTime;
         PlayerPrefs.SetFloat("Time", time);
         completeLevelUI.SetActive(true);
-    }
-
-    public void PlayPointAudio()
-    {
-        pointAudio.Play();
     }
     public void EndGame()
     {
